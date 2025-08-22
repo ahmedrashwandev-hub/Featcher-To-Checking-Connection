@@ -1,5 +1,5 @@
-# Landing Page
-- the purpose from page to Check Connection ( Online / Offline ) On Website When User Use it  
+# Featcher To Check Connection
+### the purpose from page to Check Connection ( Online / Offline ) On Website When User Use it And Lose Connection  
 ![Live photo for landing page](photo/Online.png)
 ![Live photo for landing page](photo/Offline.png)
 
